@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>FlavorForge Quiz</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h1>Flavor Personality Quiz</h1>
+  <form action="/generate" method="POST">
+    <label>What's your current mood?</label>
+    <select name="mood">
+      <option>Relaxed</option>
+      <option>Adventurous</option>
+      <option>Focused</option>
+      <option>Playful</option>
+      <option>Grounded</option>
+    </select>
+
+    <label>Which trait describes you best?</label>
+    <select name="personality">
+      <option>Relaxed</option>
+      <option>Adventurous</option>
+      <option>Focused</option>
+      <option>Playful</option>
+      <option>Grounded</option>
+    </select>
+
+    <button type="submit">Generate My Flavor</button>
+  </form>
+</body>
+</html>
