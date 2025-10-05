@@ -91,6 +91,5 @@ License
 
 MIT License
 
-live at:
-
-https://flavorforge-0izq.onrender.com
+ ✨ Author
+Built by Suleiman — strategic builder, ethical entrepreneur, and advocate for sustainable tech. Let’s empower learning, one modular app at a time.
