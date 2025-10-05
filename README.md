@@ -88,7 +88,9 @@ Requires strong passwords (8+ chars with complexity)
 Session management with secret key
 
 License
+
 MIT License
 
 live at:
+
 https://flavorforge-0izq.onrender.com
